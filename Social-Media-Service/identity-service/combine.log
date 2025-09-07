@@ -1,0 +1,32 @@
+{"level":"info","message":"Connected to MongoDB successfully","service":"identity-service","timestamp":"2025-09-07T07:01:22.124Z"}
+{"level":"info","message":"Server is listening on port 3001","service":"identity-service","timestamp":"2025-09-07T07:01:22.134Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"identity-service","timestamp":"2025-09-07T07:01:28.981Z"}
+{"level":"info","message":"Server is listening on port 3001","service":"identity-service","timestamp":"2025-09-07T07:01:28.990Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"identity-service","timestamp":"2025-09-07T07:01:31.441Z"}
+{"level":"info","message":"Server is listening on port 3001","service":"identity-service","timestamp":"2025-09-07T07:01:31.450Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"identity-service","timestamp":"2025-09-07T07:01:41.677Z"}
+{"level":"info","message":"Server is listening on port 3001","service":"identity-service","timestamp":"2025-09-07T07:01:41.690Z"}
+{"level":"info","message":"Registration Endpoint hit...","service":"identity-service","timestamp":"2025-09-07T07:03:12.973Z"}
+{"buffer":{"data":[104,189,46,49,67,199,29,113,157,73,145,4],"type":"Buffer"},"level":"warn","message":"User saved successfully","service":"identity-service","timestamp":"2025-09-07T07:03:13.288Z"}
+{"level":"error","message":"Registration error","service":"identity-service","timestamp":"2025-09-07T07:03:13.292Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"identity-service","timestamp":"2025-09-07T07:06:09.293Z"}
+{"level":"info","message":"Server is listening on port 3001","service":"identity-service","timestamp":"2025-09-07T07:06:09.302Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"identity-service","timestamp":"2025-09-07T07:06:23.753Z"}
+{"level":"info","message":"Server is listening on port 3001","service":"identity-service","timestamp":"2025-09-07T07:06:23.767Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"identity-service","timestamp":"2025-09-07T07:06:51.318Z"}
+{"level":"info","message":"Server is listening on port 3001","service":"identity-service","timestamp":"2025-09-07T07:06:51.332Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"identity-service","timestamp":"2025-09-07T07:07:09.881Z"}
+{"level":"info","message":"Server is listening on port 3001","service":"identity-service","timestamp":"2025-09-07T07:07:09.889Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"identity-service","timestamp":"2025-09-07T07:07:24.049Z"}
+{"level":"info","message":"Server is listening on port 3001","service":"identity-service","timestamp":"2025-09-07T07:07:24.059Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"identity-service","timestamp":"2025-09-07T07:07:40.724Z"}
+{"level":"info","message":"Server is listening on port 3001","service":"identity-service","timestamp":"2025-09-07T07:07:40.778Z"}
+{"level":"info","message":"Registration Endpoint hit...","service":"identity-service","timestamp":"2025-09-07T07:07:43.088Z"}
+{"level":"info","message":"Registration Endpoint hit...","service":"identity-service","timestamp":"2025-09-07T07:07:55.646Z"}
+{"buffer":{"data":[104,189,47,75,222,136,132,184,96,140,60,106],"type":"Buffer"},"level":"warn","message":"User saved successfully","service":"identity-service","timestamp":"2025-09-07T07:07:55.916Z"}
+{"level":"error","message":"Registration error: \"expiresIn\" should be a number of seconds or string representing a timespan","service":"identity-service","stack":"Error: \"expiresIn\" should be a number of seconds or string representing a timespan\n    at D:\\Qais Documents\\Full Stack\\Back-End\\Micro-Services\\Social-Media-Service\\identity-service\\node_modules\\jsonwebtoken\\sign.js:56:15\n    at Array.forEach (<anonymous>)\n    at validate (D:\\Qais Documents\\Full Stack\\Back-End\\Micro-Services\\Social-Media-Service\\identity-service\\node_modules\\jsonwebtoken\\sign.js:47:6)\n    at validateOptions (D:\\Qais Documents\\Full Stack\\Back-End\\Micro-Services\\Social-Media-Service\\identity-service\\node_modules\\jsonwebtoken\\sign.js:62:10)\n    at module.exports [as sign] (D:\\Qais Documents\\Full Stack\\Back-End\\Micro-Services\\Social-Media-Service\\identity-service\\node_modules\\jsonwebtoken\\sign.js:171:5)\n    at UserSchema.methods.createJWT (D:\\Qais Documents\\Full Stack\\Back-End\\Micro-Services\\Social-Media-Service\\identity-service\\src\\model\\User.js:50:16)\n    at register (D:\\Qais Documents\\Full Stack\\Back-End\\Micro-Services\\Social-Media-Service\\identity-service\\src\\controllers\\identity-controller.js:18:28)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-09-07T07:07:55.921Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"identity-service","timestamp":"2025-09-07T07:09:06.399Z"}
+{"level":"info","message":"Server is listening on port 3001","service":"identity-service","timestamp":"2025-09-07T07:09:06.415Z"}
+{"level":"info","message":"Registration Endpoint hit...","service":"identity-service","timestamp":"2025-09-07T07:09:13.796Z"}
+{"buffer":{"data":[104,189,47,153,113,149,218,74,39,3,214,2],"type":"Buffer"},"level":"warn","message":"User saved successfully","service":"identity-service","timestamp":"2025-09-07T07:09:14.151Z"}
+{"level":"info","message":"Registration Endpoint hit...","service":"identity-service","timestamp":"2025-09-07T07:09:39.354Z"}
