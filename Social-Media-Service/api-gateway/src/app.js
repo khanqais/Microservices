@@ -4,11 +4,13 @@ const app=express()
 const cors=require('cors')
 const Redis=require('ioredis')
 const helmet=require('helmet')
-const {rateLimit}=require('express-rate-limit')
+const rateLimit=require('express-rate-limit')
 const {RedisStore}=require('rate-limit-redis')
 const PORT=process.env.PORT || 3000
-const redisClient=new Redis(process.env.REDIS_URL)
+const RedisClient=new Redis(process.env.REDIS_URL)
 const logger=require('./utils/logger')
+const proxy=require('express-http-proxy')
+const validate = require('./middleware/authmiddlerware')
 
 app.use(cors())
 app.use(helmet())
@@ -32,13 +34,71 @@ const RateLimits=rateLimit({
 
 app.use(RateLimits)
 
-app.use((req,res,next)=>{
-    rateLimiter.consume(req.ip).then(()=>next()).catch(()=>{
-        logger.warn(`Rate Limit Exceeded for IP:${req.ip}`)
-        res.status(429).json({success:false,message:'Too many request'})
-    })
+app.use((req, res, next) => {
+  logger.info(`Received ${req.method} request to ${req.url}`);
+  logger.info(`Request body, ${req.body}`);
+  next();
+});
+
+
+const proxyOption={
+    proxyReqPathResolver:(req)=>{
+        return req.originalUrl.replace(/^\/v1/,"/api")
+    },
+    proxyErrorHandler:(err,res,next)=>{
+        logger.error(`Proxy error:${err.message}`)
+        res.status(500).json({
+            message:"Internal Server error"
+        })
+    }
+}
+// api-gateway -> /v1/auth/register -> 3000 this will point to identity-service -> /api/auth/register -> 3001
+app.use('/v1/auth',proxy(process.env.IDENTITY_SERVICE_URL,{
+    ...proxyOption,
+    proxyReqOptDecorator:(proxyReqOpts,srcReq)=>{
+        proxyReqOpts.headers["content-type"]="application/json"
+        return proxyReqOpts
+    },
+    userResDecorator:(proxyRes,proxyResData,userReq,userRes)=>{
+        logger.info(`Response received from identity service :${proxyRes.statusCode}`)
+        return proxyResData
+    }
+}))
+
+
+//setting up proxy for out post-service
+app.use(
+  "/v1/post",
+  validate,
+  proxy(process.env.POST_SERVICE_URL, {
+    ...proxyOption,
+    proxyReqOptDecorator: (proxyReqOpts, srcReq) => {
+      proxyReqOpts.headers["Content-Type"] = "application/json";
+      proxyReqOpts.headers["x-user-id"] = srcReq.user.userId;
+
+      return proxyReqOpts;
+    },
+    userResDecorator: (proxyRes, proxyResData, userReq, userRes) => {
+      logger.info(
+        `Response received from Post service: ${proxyRes.statusCode}`
+      );
+
+      return proxyResData;
+    },
+  })
+);
+
+
+app.listen(PORT,()=>{
+    logger.info(`API GATEWAY is running on port: ${PORT}`)
+    logger.info(`Identity Service is running on port: ${process.env.IDENTITY_SERVICE_URL}`)
+    logger.info(`Post Service is running on port: ${process.env.POST_SERVICE_URL}`)
+    logger.info(`Redis Url is running on port: ${process.env.REDIS_URL}`)
 })
 
-// api-gateway -> /v1/auth/register -> 3000 this will point to identity -> /api/auth/register -> 3001
+
+
+
+
 
 
