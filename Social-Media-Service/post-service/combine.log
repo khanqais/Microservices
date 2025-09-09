@@ -99,3 +99,220 @@
 {"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-09-08T19:04:41.149Z"}
 {"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-08T19:04:51.891Z"}
 {"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-08T19:04:51.900Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:11:44.491Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:11:44.496Z"}
+{"level":"info","message":"Received GET request to /api/post/all-posts","service":"post-service","timestamp":"2025-09-09T03:12:08.634Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-09-09T03:12:08.636Z"}
+{"level":"info","message":"Received GET request to /api/post/all-posts","service":"post-service","timestamp":"2025-09-09T03:12:17.716Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-09-09T03:12:17.716Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:13:26.971Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:13:26.980Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:13:43.508Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:13:43.513Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:13:51.299Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:13:51.306Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:13:53.896Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:13:53.901Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:14:01.019Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:14:01.026Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:14:03.165Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:14:03.169Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:14:09.336Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:14:09.367Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:14:11.564Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:14:11.571Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:14:35.732Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:14:35.736Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:14:38.403Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:14:38.408Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:14:44.445Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:14:44.482Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:14:50.479Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:14:50.488Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:14:52.630Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:14:52.639Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:14:55.727Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:14:55.732Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:15:11.570Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:15:11.574Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:15:17.716Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:15:17.722Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:15:22.222Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:15:22.227Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:15:44.957Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:15:44.968Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:24:17.951Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:24:17.957Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:24:22.206Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:24:22.215Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:24:36.730Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:24:36.739Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:24:43.181Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:24:43.186Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:25:02.943Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:25:02.951Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:25:18.198Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:25:18.203Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:25:24.446Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:25:24.485Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:25:27.680Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:25:27.694Z"}
+{"level":"info","message":"Received POST request to /api/post/create-post","service":"post-service","timestamp":"2025-09-09T03:25:31.269Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-09-09T03:25:31.270Z"}
+{"level":"info","message":"Create post endpoint hit","service":"post-service","timestamp":"2025-09-09T03:25:31.272Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"68bf9e2b1733be393cc79395","content":"New Post Created 4","createdAt":"2025-09-09T03:25:31.280Z","mediaIds":[],"updatedAt":"2025-09-09T03:25:31.280Z","user":"68beaa1e89b33e48ec9d899b"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"68bf9e2b1733be393cc79395","content":"New Post Created 4","createdAt":"2025-09-09T03:25:31.280Z","mediaIds":[],"updatedAt":"2025-09-09T03:25:31.280Z","user":"68beaa1e89b33e48ec9d899b"},"level":"info","message":"Post created successfully","service":"post-service","timestamp":"2025-09-09T03:25:31.377Z"}
+{"level":"info","message":"Received GET request to /api/post/all-posts","service":"post-service","timestamp":"2025-09-09T03:25:35.311Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-09-09T03:25:35.312Z"}
+{"level":"info","message":"Received GET request to /api/post/all-posts","service":"post-service","timestamp":"2025-09-09T03:25:39.070Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-09-09T03:25:39.075Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:26:12.166Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:26:12.176Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:27:00.306Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:27:00.334Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:27:02.751Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:27:02.756Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:27:07.056Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:27:07.102Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:27:11.148Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:27:11.153Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:27:18.529Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:27:18.534Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:27:30.036Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:27:30.041Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:27:32.786Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:27:32.791Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:27:37.259Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:27:37.263Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:27:46.842Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:27:46.847Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:27:53.332Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:27:53.337Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:27:55.184Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:27:55.189Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:28:09.820Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:28:09.839Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:28:31.820Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:28:31.825Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:28:37.368Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:28:37.373Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:28:41.373Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:28:41.386Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:28:47.507Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:28:47.515Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:28:51.099Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:28:51.105Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:28:57.546Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:28:57.552Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:29:04.711Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:29:04.716Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:29:07.269Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:29:07.276Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:29:10.287Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:29:10.291Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:29:12.499Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:29:12.503Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:29:15.253Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:29:15.258Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:29:17.715Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:29:17.720Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:29:23.557Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:29:23.566Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:29:32.050Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:29:32.055Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:29:34.510Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:29:34.517Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:29:40.759Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:29:40.769Z"}
+{"level":"info","message":"Received GET request to /api/post/68bf9e2b1733be393cc79395","service":"post-service","timestamp":"2025-09-09T03:32:26.405Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-09-09T03:32:26.406Z"}
+{"level":"error","message":"Error Getting post Cannot read properties of undefined (reading 'id')","service":"post-service","stack":"TypeError: Cannot read properties of undefined (reading 'id')\n    at GetPost (D:\\Qais Documents\\Full Stack\\Back-End\\Micro-Services\\Social-Media-Service\\post-service\\src\\controllers\\PostController.js:98:33)\n    at Layer.handleRequest (D:\\Qais Documents\\Full Stack\\Back-End\\Micro-Services\\Social-Media-Service\\post-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (D:\\Qais Documents\\Full Stack\\Back-End\\Micro-Services\\Social-Media-Service\\post-service\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (D:\\Qais Documents\\Full Stack\\Back-End\\Micro-Services\\Social-Media-Service\\post-service\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (D:\\Qais Documents\\Full Stack\\Back-End\\Micro-Services\\Social-Media-Service\\post-service\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (D:\\Qais Documents\\Full Stack\\Back-End\\Micro-Services\\Social-Media-Service\\post-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at D:\\Qais Documents\\Full Stack\\Back-End\\Micro-Services\\Social-Media-Service\\post-service\\node_modules\\router\\index.js:295:15\n    at param (D:\\Qais Documents\\Full Stack\\Back-End\\Micro-Services\\Social-Media-Service\\post-service\\node_modules\\router\\index.js:600:14)\n    at param (D:\\Qais Documents\\Full Stack\\Back-End\\Micro-Services\\Social-Media-Service\\post-service\\node_modules\\router\\index.js:610:14)\n    at processParams (D:\\Qais Documents\\Full Stack\\Back-End\\Micro-Services\\Social-Media-Service\\post-service\\node_modules\\router\\index.js:664:3)","timestamp":"2025-09-09T03:32:26.410Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:33:06.070Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:33:06.076Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:33:11.183Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:33:11.191Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:34:32.224Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:34:32.228Z"}
+{"level":"info","message":"Received GET request to /api/post/68bf9e2b1733be393cc79395","service":"post-service","timestamp":"2025-09-09T03:36:16.581Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-09-09T03:36:16.582Z"}
+{"level":"info","message":"Received GET request to /api/post/68bf9e2b1733be393cc79395","service":"post-service","timestamp":"2025-09-09T03:36:23.420Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-09-09T03:36:23.421Z"}
+{"level":"info","message":"Received GET request to /api/post/68bf9e2b1733be393cc79395","service":"post-service","timestamp":"2025-09-09T03:36:25.424Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-09-09T03:36:25.425Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:38:49.727Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:38:49.733Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:38:52.083Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:38:52.088Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:38:57.103Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:38:57.117Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:38:59.120Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:38:59.125Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:39:01.298Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:39:01.303Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:39:25.509Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:39:25.516Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:39:28.333Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:39:28.338Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:39:36.117Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:39:36.122Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:39:38.883Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:39:38.893Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:40:23.258Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:40:23.291Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:40:27.113Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:40:27.117Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:40:35.190Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:40:35.198Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:40:39.856Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:40:39.863Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:40:49.066Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:40:49.071Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:40:55.681Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:40:55.687Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:41:00.490Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:41:00.494Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:41:13.602Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:41:13.607Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:41:33.059Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:41:33.066Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:41:35.241Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:41:35.246Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:41:37.666Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:41:37.677Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:41:44.832Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:41:44.840Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:41:55.795Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:41:55.799Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:41:58.870Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:41:58.874Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:42:03.678Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:42:03.685Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:42:20.985Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:42:20.994Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:42:41.157Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:42:41.166Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:42:49.450Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:42:49.459Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:42:52.902Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:42:52.911Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:43:12.596Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:43:12.603Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:43:17.739Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:43:17.748Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T03:43:21.710Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T03:43:21.719Z"}
+{"level":"info","message":"Received GET request to /api/post/68bf9e2b1733be393cc79395","service":"post-service","timestamp":"2025-09-09T03:44:12.661Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-09-09T03:44:12.662Z"}
+{"level":"info","message":"Received DELETE request to /api/post/68bf9e2b1733be393cc79395","service":"post-service","timestamp":"2025-09-09T03:44:19.217Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-09-09T03:44:19.218Z"}
+{"level":"info","message":"Received GET request to /api/post/all-posts","service":"post-service","timestamp":"2025-09-09T03:44:26.621Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-09-09T03:44:26.622Z"}
+{"level":"info","message":"Received GET request to /api/post/68bf9e2b1733be393cc79395","service":"post-service","timestamp":"2025-09-09T03:44:59.264Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-09-09T03:44:59.266Z"}
+{"level":"info","message":"Received POST request to /api/post/create-post","service":"post-service","timestamp":"2025-09-09T05:27:51.620Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-09-09T05:27:51.626Z"}
+{"level":"info","message":"Create post endpoint hit","service":"post-service","timestamp":"2025-09-09T05:27:51.629Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"68bfbad7bc873e0464033fa3","content":"New Post Created 4","createdAt":"2025-09-09T05:27:51.660Z","mediaIds":["68bfb9e7465750c2d5f1f1be"],"updatedAt":"2025-09-09T05:27:51.660Z","user":"68beaa1e89b33e48ec9d899b"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"68bfbad7bc873e0464033fa3","content":"New Post Created 4","createdAt":"2025-09-09T05:27:51.660Z","mediaIds":["68bfb9e7465750c2d5f1f1be"],"updatedAt":"2025-09-09T05:27:51.660Z","user":"68beaa1e89b33e48ec9d899b"},"level":"info","message":"Post created successfully","service":"post-service","timestamp":"2025-09-09T05:27:51.846Z"}
+{"level":"info","message":"Received GET request to /api/post/all-posts","service":"post-service","timestamp":"2025-09-09T05:28:19.607Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-09-09T05:28:19.609Z"}
+{"level":"info","message":"Received GET request to /api/post/all-posts","service":"post-service","timestamp":"2025-09-09T05:28:28.668Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-09-09T05:28:28.668Z"}
