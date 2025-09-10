@@ -10,8 +10,8 @@ services:
       - redis
       - rabbitmq
     environment:
-      - REDIS_URL=redis://localhost:6379
-      - RABBITMQ_URL=amqp://localhost:5672
+      - REDIS_URL=redis://redis:6379
+      - RABBITMQ_URL=amqp://rabbitmq:5672
   
   identity-service:
     build: ./identity-service
@@ -22,8 +22,8 @@ services:
       - redis
       - rabbitmq
     environment:
-      - REDIS_URL=redis://localhost:6379
-      - RABBITMQ_URL=amqp://localhost:5672
+      - REDIS_URL=redis://redis:6379
+      - RABBITMQ_URL=amqp://rabbitmq:5672
 
   post-service:
     build: ./post-service
@@ -34,8 +34,8 @@ services:
       - redis
       - rabbitmq
     environment:
-      - REDIS_URL=redis://localhost:6379
-      - RABBITMQ_URL=amqp://localhost:5672
+      - REDIS_URL=redis://redis:6379
+      - RABBITMQ_URL=amqp://rabbitmq:5672
 
   media-service:
     build: ./media-service
@@ -46,8 +46,8 @@ services:
       - redis
       - rabbitmq
     environment:
-      - REDIS_URL=redis://localhost:6379
-      - RABBITMQ_URL=amqp://localhost:5672
+      - REDIS_URL=redis://redis:6379
+      - RABBITMQ_URL=amqp://rabbitmq:5672
 
   search-service:
     build: ./search-service
@@ -58,8 +58,8 @@ services:
       - redis
       - rabbitmq
     environment:
-      - REDIS_URL=redis://localhost:6379
-      - RABBITMQ_URL=amqp://localhost:5672
+      - REDIS_URL=redis://redis:6379
+      - RABBITMQ_URL=amqp://rabbitmq:5672
 
   redis:
     image: redis:alpine
