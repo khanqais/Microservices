@@ -27,3 +27,258 @@
 {"level":"info","message":"File details: name=Screenshot 2025-07-27 201505.png, type=image/png","service":"media-service","timestamp":"2025-09-09T05:23:46.800Z"}
 {"level":"info","message":"Uploading to cloudinary starting...","service":"media-service","timestamp":"2025-09-09T05:23:46.801Z"}
 {"level":"info","message":"Cloudinary upload successfully. Public Id: - pyrh6u34madmxrfoeuxa","service":"media-service","timestamp":"2025-09-09T05:23:51.198Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-09T05:34:27.360Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-09T05:34:27.364Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-09T17:18:28.705Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-09T17:18:28.711Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-09T17:21:35.844Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-09T17:21:35.849Z"}
+{"level":"info","message":"Received GET request to /api/media/get","service":"media-service","timestamp":"2025-09-09T17:23:50.062Z"}
+{"level":"info","message":"Request body, undefined","service":"media-service","timestamp":"2025-09-09T17:23:50.063Z"}
+{"level":"info","message":"Received GET request to /api/media/get","service":"media-service","timestamp":"2025-09-09T17:24:58.337Z"}
+{"level":"info","message":"Request body, undefined","service":"media-service","timestamp":"2025-09-09T17:24:58.345Z"}
+{"level":"info","message":"Received GET request to /api/media/get","service":"media-service","timestamp":"2025-09-09T17:25:55.533Z"}
+{"level":"info","message":"Request body, undefined","service":"media-service","timestamp":"2025-09-09T17:25:55.534Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-09T17:31:11.951Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-09T17:31:11.956Z"}
+{"level":"info","message":"Received GET request to /api/media/get","service":"media-service","timestamp":"2025-09-09T17:31:25.480Z"}
+{"level":"info","message":"Request body, undefined","service":"media-service","timestamp":"2025-09-09T17:31:25.481Z"}
+{"level":"info","message":"Received GET request to /api/media/get","service":"media-service","timestamp":"2025-09-09T17:34:32.940Z"}
+{"level":"info","message":"Request body, undefined","service":"media-service","timestamp":"2025-09-09T17:34:32.940Z"}
+{"level":"info","message":"Received GET request to /api/media/get","service":"media-service","timestamp":"2025-09-09T17:37:08.433Z"}
+{"level":"info","message":"Request body, undefined","service":"media-service","timestamp":"2025-09-09T17:37:08.433Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-09T17:39:17.698Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-09T17:39:17.703Z"}
+{"level":"info","message":"Received GET request to /api/media/get","service":"media-service","timestamp":"2025-09-09T17:39:18.003Z"}
+{"level":"info","message":"Request body, undefined","service":"media-service","timestamp":"2025-09-09T17:39:18.004Z"}
+{"level":"info","message":"Received POST request to /api/media/upload","service":"media-service","timestamp":"2025-09-09T17:40:05.301Z"}
+{"level":"info","message":"Request body, undefined","service":"media-service","timestamp":"2025-09-09T17:40:05.308Z"}
+{"level":"info","message":"Starting media upload","service":"media-service","timestamp":"2025-09-09T17:40:05.331Z"}
+{"level":"info","message":"File details: name=Screenshot 2025-08-30 180223.png, type=image/png","service":"media-service","timestamp":"2025-09-09T17:40:05.337Z"}
+{"level":"info","message":"Uploading to cloudinary starting...","service":"media-service","timestamp":"2025-09-09T17:40:05.337Z"}
+{"level":"info","message":"Cloudinary upload successfully. Public Id: - paznqxhd2njjkmlrdr4g","service":"media-service","timestamp":"2025-09-09T17:40:09.621Z"}
+{"level":"info","message":"Received GET request to /api/media/get","service":"media-service","timestamp":"2025-09-09T17:40:14.637Z"}
+{"level":"info","message":"Request body, undefined","service":"media-service","timestamp":"2025-09-09T17:40:14.638Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:45:55.867Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:45:55.881Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:54:14.349Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:54:14.365Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:55:00.835Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:55:00.843Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:55:23.495Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:55:23.503Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:55:29.613Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:55:29.620Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:55:36.579Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:55:36.593Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:55:53.375Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:55:53.380Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:56:00.355Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:56:00.361Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:56:02.868Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:56:02.883Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:56:07.006Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:56:07.012Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:56:08.713Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:56:08.717Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:56:10.658Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:56:10.663Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:56:12.808Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:56:12.813Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:56:14.976Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:56:14.983Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:56:19.129Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:56:19.138Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:56:29.108Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:56:29.112Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:56:31.543Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:56:31.547Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:56:35.049Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:56:35.056Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:56:38.379Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:56:38.383Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:56:40.175Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:56:40.182Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:56:51.134Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:56:51.145Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:56:53.672Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:56:53.678Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:56:55.408Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:56:55.413Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:57:00.759Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:57:00.765Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:57:05.523Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:57:05.531Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:57:08.444Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:57:08.450Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:57:11.819Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:57:11.832Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:57:19.173Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:57:19.179Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:57:22.162Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:57:22.169Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:57:24.423Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:57:24.427Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:57:29.326Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:57:29.333Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:57:31.580Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:57:31.585Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:57:33.601Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:57:33.606Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:57:38.806Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:57:38.814Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:57:45.906Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:57:45.914Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:57:49.631Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:57:49.635Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:58:03.016Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:58:03.021Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:58:33.375Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:58:33.380Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:58:36.903Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:58:36.910Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:58:38.707Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:58:38.712Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:58:42.986Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:58:42.990Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:58:44.950Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:58:44.956Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:58:47.202Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:58:47.208Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:58:53.737Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:58:53.744Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:59:01.542Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:59:01.552Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:59:03.812Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:59:03.818Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:59:06.113Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:59:06.119Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:59:09.030Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:59:09.035Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:59:11.103Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:59:11.114Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:59:13.802Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:59:13.815Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:59:16.121Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:59:16.126Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:59:18.178Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:59:18.182Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:59:20.120Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:59:20.124Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:59:23.419Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:59:23.426Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:59:35.083Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:59:35.091Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:59:37.490Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:59:37.495Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:59:39.835Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:59:39.842Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:59:43.361Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:59:43.366Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:59:47.414Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:59:47.419Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:59:53.858Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:59:53.864Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T06:59:57.224Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T06:59:57.229Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T07:00:01.475Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T07:00:03.296Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T07:00:03.304Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T07:00:07.294Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T07:00:07.301Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T07:00:13.372Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T07:00:13.414Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T07:00:19.170Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T07:00:19.175Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T07:00:35.499Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T07:00:35.504Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T07:00:45.775Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T07:00:45.782Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T07:00:47.672Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T07:00:47.681Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T07:00:51.628Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T07:00:51.633Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T07:00:54.327Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T07:00:54.333Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T07:01:02.404Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T07:01:02.409Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T07:01:06.050Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T07:01:06.058Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T07:01:53.247Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T07:01:53.253Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T07:01:57.432Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T07:01:57.440Z"}
+{"level":"error","message":"Failed to start server: conn is not defined","service":"media-service","stack":"ReferenceError: conn is not defined\n    at start (D:\\Qais Documents\\Full Stack\\Back-End\\Micro-Services\\Social-Media-Service\\media-service\\src\\app.js:34:5)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-09-10T07:02:02.052Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T07:02:04.345Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T07:02:04.350Z"}
+{"level":"info","message":"connected to rabbit mq","service":"media-service","timestamp":"2025-09-10T07:02:08.154Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T07:02:08.157Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T07:02:08.159Z"}
+{"level":"info","message":"connected to rabbit mq","service":"media-service","timestamp":"2025-09-10T07:02:34.354Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T07:02:34.356Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T07:02:34.358Z"}
+{"level":"info","message":"connected to rabbit mq","service":"media-service","timestamp":"2025-09-10T07:02:36.376Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T07:02:36.378Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T07:02:36.381Z"}
+{"level":"info","message":"connected to rabbit mq","service":"media-service","timestamp":"2025-09-10T07:02:50.445Z"}
+{"level":"error","message":"Failed to start server: cons is not defined","service":"media-service","stack":"ReferenceError: cons is not defined\n    at start (D:\\Qais Documents\\Full Stack\\Back-End\\Micro-Services\\Social-Media-Service\\media-service\\src\\app.js:37:5)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-09-10T07:02:50.449Z"}
+{"level":"info","message":"connected to rabbit mq","service":"media-service","timestamp":"2025-09-10T07:02:55.177Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T07:02:55.180Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T07:02:55.182Z"}
+{"level":"info","message":"connected to rabbit mq","service":"media-service","timestamp":"2025-09-10T07:03:01.585Z"}
+{"level":"info","message":"SubScribed to event :post.deleted","service":"media-service","timestamp":"2025-09-10T07:03:01.609Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T07:03:01.610Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T07:03:01.612Z"}
+{"level":"info","message":"connected to rabbit mq","service":"media-service","timestamp":"2025-09-10T07:03:06.873Z"}
+{"level":"info","message":"SubScribed to event :post.deleted","service":"media-service","timestamp":"2025-09-10T07:03:06.883Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T07:03:06.884Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T07:03:06.886Z"}
+{"level":"info","message":"connected to rabbit mq","service":"media-service","timestamp":"2025-09-10T07:04:41.871Z"}
+{"level":"info","message":"SubScribed to event :post.deleted","service":"media-service","timestamp":"2025-09-10T07:04:41.883Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T07:04:41.884Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T07:04:41.886Z"}
+{"level":"info","message":"connected to rabbit mq","service":"media-service","timestamp":"2025-09-10T07:04:49.870Z"}
+{"level":"info","message":"SubScribed to event :post.deleted","service":"media-service","timestamp":"2025-09-10T07:04:49.883Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T07:04:49.884Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T07:04:49.886Z"}
+{"level":"info","message":"connected to rabbit mq","service":"media-service","timestamp":"2025-09-10T07:05:05.092Z"}
+{"level":"info","message":"SubScribed to event :post.deleted","service":"media-service","timestamp":"2025-09-10T07:05:05.102Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T07:05:05.102Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T07:05:05.104Z"}
+{"level":"info","message":"connected to rabbit mq","service":"media-service","timestamp":"2025-09-10T07:06:04.753Z"}
+{"level":"info","message":"SubScribed to event :post.deleted","service":"media-service","timestamp":"2025-09-10T07:06:04.767Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T07:06:04.768Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T07:06:04.772Z"}
+{"level":"info","message":"connected to rabbit mq","service":"media-service","timestamp":"2025-09-10T07:06:29.084Z"}
+{"level":"info","message":"SubScribed to event :post.deleted","service":"media-service","timestamp":"2025-09-10T07:06:29.097Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T07:06:29.098Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T07:06:29.101Z"}
+{"level":"info","message":"connected to rabbit mq","service":"media-service","timestamp":"2025-09-10T07:08:33.506Z"}
+{"level":"info","message":"SubScribed to event :post.deleted","service":"media-service","timestamp":"2025-09-10T07:08:33.518Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T07:08:33.519Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T07:08:33.522Z"}
+{"level":"info","message":"connected to rabbit mq","service":"media-service","timestamp":"2025-09-10T07:12:41.757Z"}
+{"level":"info","message":"SubScribed to event :post.deleted","service":"media-service","timestamp":"2025-09-10T07:12:41.770Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T07:12:41.771Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T07:12:41.773Z"}
+{"level":"info","message":"Received POST request to /api/media/upload","service":"media-service","timestamp":"2025-09-10T07:14:17.612Z"}
+{"level":"info","message":"Request body, undefined","service":"media-service","timestamp":"2025-09-10T07:14:17.615Z"}
+{"level":"info","message":"Starting media upload","service":"media-service","timestamp":"2025-09-10T07:14:17.633Z"}
+{"level":"info","message":"File details: name=Screenshot 2025-07-27 201636.png, type=image/png","service":"media-service","timestamp":"2025-09-10T07:14:17.635Z"}
+{"level":"info","message":"Uploading to cloudinary starting...","service":"media-service","timestamp":"2025-09-10T07:14:17.635Z"}
+{"level":"info","message":"Cloudinary upload successfully. Public Id: - lis10m7hzkttei8yvorl","service":"media-service","timestamp":"2025-09-10T07:14:21.794Z"}
+{"level":"info","message":"connected to rabbit mq","service":"media-service","timestamp":"2025-09-10T07:16:17.542Z"}
+{"level":"info","message":"SubScribed to event :post.deleted","service":"media-service","timestamp":"2025-09-10T07:16:17.557Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T07:16:17.557Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T07:16:17.560Z"}
+{"level":"info","message":"connected to rabbit mq","service":"media-service","timestamp":"2025-09-10T07:16:26.278Z"}
+{"level":"info","message":"SubScribed to event :post.deleted","service":"media-service","timestamp":"2025-09-10T07:16:26.300Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"media-service","timestamp":"2025-09-10T07:16:26.301Z"}
+{"level":"info","message":"Server is listening on port 3003","service":"media-service","timestamp":"2025-09-10T07:16:26.305Z"}
+{"level":"info","message":"Received GET request to /api/media/get","service":"media-service","timestamp":"2025-09-10T07:16:46.682Z"}
+{"level":"info","message":"Request body, undefined","service":"media-service","timestamp":"2025-09-10T07:16:46.689Z"}
+{"0":"p","1":"y","10":"d","11":"m","12":"x","13":"r","14":"f","15":"o","16":"e","17":"u","18":"x","19":"a","2":"r","3":"h","4":"6","5":"u","6":"3","7":"4","8":"m","9":"a","level":"info","message":"Media deleted successfuly from cloud stroage","service":"media-service","timestamp":"2025-09-10T07:17:13.770Z"}
+{"level":"info","message":"Deleted media 68bfb9e7465750c2d5f1f1be associated with this deleted post 68bfbad7bc873e0464033fa3","service":"media-service","timestamp":"2025-09-10T07:17:13.805Z"}
+{"level":"info","message":"Processed deletion of media for post id 68bfbad7bc873e0464033fa3","service":"media-service","timestamp":"2025-09-10T07:17:13.807Z"}
+{"level":"info","message":"Received GET request to /api/media/get","service":"media-service","timestamp":"2025-09-10T07:17:14.308Z"}
+{"level":"info","message":"Request body, undefined","service":"media-service","timestamp":"2025-09-10T07:17:14.309Z"}

@@ -316,3 +316,132 @@
 {"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-09-09T05:28:19.609Z"}
 {"level":"info","message":"Received GET request to /api/post/all-posts","service":"post-service","timestamp":"2025-09-09T05:28:28.668Z"}
 {"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-09-09T05:28:28.668Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T05:34:27.357Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T05:34:27.361Z"}
+{"level":"info","message":"connected to rabbit mq","service":"post-service","timestamp":"2025-09-09T17:18:19.564Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-09T17:18:19.566Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-09T17:18:19.573Z"}
+{"level":"info","message":"connected to rabbit mq","service":"post-service","timestamp":"2025-09-10T06:45:58.535Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-10T06:45:58.539Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-10T06:45:58.543Z"}
+{"level":"info","message":"connected to rabbit mq","service":"post-service","timestamp":"2025-09-10T06:47:15.733Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-10T06:47:15.740Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-10T06:47:15.748Z"}
+{"level":"info","message":"connected to rabbit mq","service":"post-service","timestamp":"2025-09-10T06:47:22.317Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-10T06:47:22.321Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-10T06:47:22.325Z"}
+{"level":"info","message":"connected to rabbit mq","service":"post-service","timestamp":"2025-09-10T06:47:25.558Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-10T06:47:25.562Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-10T06:47:25.566Z"}
+{"level":"info","message":"connected to rabbit mq","service":"post-service","timestamp":"2025-09-10T06:47:30.558Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-10T06:47:30.563Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-10T06:47:30.567Z"}
+{"level":"info","message":"connected to rabbit mq","service":"post-service","timestamp":"2025-09-10T06:47:36.176Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-10T06:47:36.183Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-10T06:47:36.189Z"}
+{"level":"info","message":"connected to rabbit mq","service":"post-service","timestamp":"2025-09-10T06:47:45.247Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-10T06:47:45.253Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-10T06:47:45.258Z"}
+{"level":"info","message":"connected to rabbit mq","service":"post-service","timestamp":"2025-09-10T06:47:51.631Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-10T06:47:51.637Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-10T06:47:51.645Z"}
+{"level":"info","message":"connected to rabbit mq","service":"post-service","timestamp":"2025-09-10T06:47:54.913Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-10T06:47:54.918Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-10T06:47:54.922Z"}
+{"level":"info","message":"connected to rabbit mq","service":"post-service","timestamp":"2025-09-10T06:48:01.843Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-10T06:48:01.850Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-10T06:48:01.856Z"}
+{"level":"info","message":"connected to rabbit mq","service":"post-service","timestamp":"2025-09-10T06:48:10.933Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-10T06:48:10.939Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-10T06:48:10.945Z"}
+{"level":"info","message":"connected to rabbit mq","service":"post-service","timestamp":"2025-09-10T06:48:19.978Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-10T06:48:19.983Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-10T06:48:19.987Z"}
+{"level":"info","message":"connected to rabbit mq","service":"post-service","timestamp":"2025-09-10T06:48:25.075Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-10T06:48:25.081Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-10T06:48:25.087Z"}
+{"level":"info","message":"connected to rabbit mq","service":"post-service","timestamp":"2025-09-10T06:48:30.669Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-10T06:48:30.674Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-10T06:48:30.679Z"}
+{"level":"info","message":"connected to rabbit mq","service":"post-service","timestamp":"2025-09-10T06:48:35.036Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-10T06:48:35.040Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-10T06:48:35.045Z"}
+{"level":"info","message":"connected to rabbit mq","service":"post-service","timestamp":"2025-09-10T06:48:38.645Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-10T06:48:38.655Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-10T06:48:38.660Z"}
+{"level":"info","message":"connected to rabbit mq","service":"post-service","timestamp":"2025-09-10T06:48:53.761Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-10T06:48:53.767Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-10T06:48:53.772Z"}
+{"level":"info","message":"connected to rabbit mq","service":"post-service","timestamp":"2025-09-10T06:48:58.682Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-10T06:48:58.687Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-10T06:48:58.692Z"}
+{"level":"info","message":"connected to rabbit mq","service":"post-service","timestamp":"2025-09-10T06:49:04.125Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-10T06:49:04.130Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-10T06:49:04.134Z"}
+{"level":"info","message":"connected to rabbit mq","service":"post-service","timestamp":"2025-09-10T06:49:15.687Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-10T06:49:15.695Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-10T06:49:15.702Z"}
+{"level":"info","message":"connected to rabbit mq","service":"post-service","timestamp":"2025-09-10T06:49:59.729Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-10T06:49:59.733Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-10T06:49:59.737Z"}
+{"level":"info","message":"connected to rabbit mq","service":"post-service","timestamp":"2025-09-10T06:50:04.638Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-10T06:50:04.646Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-10T06:50:04.653Z"}
+{"level":"info","message":"connected to rabbit mq","service":"post-service","timestamp":"2025-09-10T06:50:36.775Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-10T06:50:36.781Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-10T06:50:36.786Z"}
+{"level":"info","message":"connected to rabbit mq","service":"post-service","timestamp":"2025-09-10T06:50:47.519Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-10T06:50:47.523Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-10T06:50:47.527Z"}
+{"level":"info","message":"connected to rabbit mq","service":"post-service","timestamp":"2025-09-10T06:50:56.668Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-10T06:50:56.674Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-10T06:50:56.679Z"}
+{"level":"info","message":"connected to rabbit mq","service":"post-service","timestamp":"2025-09-10T06:51:02.585Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-10T06:51:02.589Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-10T06:51:02.592Z"}
+{"level":"info","message":"connected to rabbit mq","service":"post-service","timestamp":"2025-09-10T06:51:05.375Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-10T06:51:05.380Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-10T06:51:05.387Z"}
+{"level":"info","message":"connected to rabbit mq","service":"post-service","timestamp":"2025-09-10T06:51:08.752Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-10T06:51:08.759Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-10T06:51:08.767Z"}
+{"level":"info","message":"connected to rabbit mq","service":"post-service","timestamp":"2025-09-10T06:51:36.446Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-10T06:51:36.453Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-10T06:51:36.458Z"}
+{"level":"info","message":"connected to rabbit mq","service":"post-service","timestamp":"2025-09-10T06:51:48.974Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-10T06:51:48.979Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-10T06:51:48.986Z"}
+{"level":"info","message":"connected to rabbit mq","service":"post-service","timestamp":"2025-09-10T06:51:57.404Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-10T06:51:57.408Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-10T06:51:57.412Z"}
+{"level":"info","message":"connected to rabbit mq","service":"post-service","timestamp":"2025-09-10T06:52:03.741Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-10T06:52:03.748Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-10T06:52:03.754Z"}
+{"level":"info","message":"connected to rabbit mq","service":"post-service","timestamp":"2025-09-10T06:52:35.098Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-10T06:52:35.104Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-10T06:52:35.110Z"}
+{"level":"info","message":"connected to rabbit mq","service":"post-service","timestamp":"2025-09-10T06:52:48.281Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-10T06:52:48.288Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-10T06:52:48.296Z"}
+{"level":"info","message":"connected to rabbit mq","service":"post-service","timestamp":"2025-09-10T06:52:53.381Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"post-service","timestamp":"2025-09-10T06:52:53.387Z"}
+{"level":"info","message":"Server is listening on port 3002","service":"post-service","timestamp":"2025-09-10T06:52:53.391Z"}
+{"level":"info","message":"Received GET request to /api/post/all-posts","service":"post-service","timestamp":"2025-09-10T07:13:15.615Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-09-10T07:13:15.616Z"}
+{"level":"info","message":"Received GET request to /api/post/68bf9e2b1733be393cc79395","service":"post-service","timestamp":"2025-09-10T07:13:47.920Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-09-10T07:13:47.929Z"}
+{"level":"info","message":"Received POST request to /api/post/create-post","service":"post-service","timestamp":"2025-09-10T07:14:55.627Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-09-10T07:14:55.628Z"}
+{"level":"info","message":"Create post endpoint hit","service":"post-service","timestamp":"2025-09-10T07:14:55.629Z"}
+{"level":"info","message":"Event published: post.created","service":"post-service","timestamp":"2025-09-10T07:14:55.712Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","user":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"user":true}}},"backup":{"activePaths":{"default":{"_id":true,"createdAt":true},"modify":{"content":true,"mediaIds":true,"updatedAt":true,"user":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"pathsToScopes":{"mediaIds":{"__v":0,"_id":"68c1256f70491965e68bea10","content":"New Post Created 4","createdAt":"2025-09-10T07:14:55.643Z","mediaIds":["68c1254d9bf5d6c37ac07eff"],"updatedAt":"2025-09-10T07:14:55.643Z","user":"68beaa1e89b33e48ec9d899b"}},"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"68c1256f70491965e68bea10","content":"New Post Created 4","createdAt":"2025-09-10T07:14:55.643Z","mediaIds":["68c1254d9bf5d6c37ac07eff"],"updatedAt":"2025-09-10T07:14:55.643Z","user":"68beaa1e89b33e48ec9d899b"},"level":"info","message":"Post created successfully","service":"post-service","timestamp":"2025-09-10T07:14:55.718Z"}
+{"level":"info","message":"Received GET request to /api/post/all-posts","service":"post-service","timestamp":"2025-09-10T07:15:03.070Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-09-10T07:15:03.073Z"}
+{"level":"info","message":"Received DELETE request to /api/post/68c1256f70491965e68bea10","service":"post-service","timestamp":"2025-09-10T07:16:05.904Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-09-10T07:16:05.905Z"}
+{"level":"info","message":"Event published: post.deleted","service":"post-service","timestamp":"2025-09-10T07:16:05.957Z"}
+{"level":"info","message":"Received GET request to /api/post/all-posts","service":"post-service","timestamp":"2025-09-10T07:16:31.565Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-09-10T07:16:31.566Z"}
+{"level":"info","message":"Received DELETE request to /api/post/68bfbad7bc873e0464033fa3","service":"post-service","timestamp":"2025-09-10T07:17:11.206Z"}
+{"level":"info","message":"Request body, [object Object]","service":"post-service","timestamp":"2025-09-10T07:17:11.207Z"}
+{"level":"info","message":"Event published: post.deleted","service":"post-service","timestamp":"2025-09-10T07:17:11.299Z"}

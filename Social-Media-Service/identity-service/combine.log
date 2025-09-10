@@ -166,3 +166,12 @@
 {"level":"info","message":"Server is listening on port 3001","service":"identity-service","timestamp":"2025-09-09T03:11:35.101Z"}
 {"level":"info","message":"Login endpoint ","service":"identity-service","timestamp":"2025-09-09T03:35:49.951Z"}
 {"level":"info","message":"Login endpoint ","service":"identity-service","timestamp":"2025-09-09T05:14:35.061Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"identity-service","timestamp":"2025-09-09T05:34:27.644Z"}
+{"level":"info","message":"Server is listening on port 3001","service":"identity-service","timestamp":"2025-09-09T05:34:27.648Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"identity-service","timestamp":"2025-09-09T17:18:48.270Z"}
+{"level":"info","message":"Server is listening on port 3001","service":"identity-service","timestamp":"2025-09-09T17:18:48.275Z"}
+{"level":"info","message":"Login endpoint ","service":"identity-service","timestamp":"2025-09-09T17:22:56.042Z"}
+{"level":"info","message":"Login endpoint ","service":"identity-service","timestamp":"2025-09-09T17:36:47.624Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"identity-service","timestamp":"2025-09-10T06:46:09.371Z"}
+{"level":"info","message":"Server is listening on port 3001","service":"identity-service","timestamp":"2025-09-10T06:46:09.378Z"}
+{"level":"info","message":"Login endpoint ","service":"identity-service","timestamp":"2025-09-10T07:12:53.103Z"}

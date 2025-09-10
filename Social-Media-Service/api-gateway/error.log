@@ -2,3 +2,10 @@
 {"level":"error","message":"Proxy error:","service":"api-gateway","timestamp":"2025-09-08T19:01:48.863Z"}
 {"level":"error","message":"Proxy error:","service":"api-gateway","timestamp":"2025-09-08T19:02:15.040Z"}
 {"level":"error","message":"Proxy error:","service":"api-gateway","timestamp":"2025-09-08T19:02:26.335Z"}
+{"level":"error","message":"Proxy error:Cannot read properties of undefined (reading 'startsWith')","service":"api-gateway","timestamp":"2025-09-09T17:23:12.479Z"}
+{"level":"error","message":"Proxy error:read ECONNRESET","service":"api-gateway","timestamp":"2025-09-09T17:31:09.995Z"}
+{"level":"error","message":"Proxy error:read ECONNRESET","service":"api-gateway","timestamp":"2025-09-09T17:31:09.998Z"}
+{"level":"error","message":"Proxy error:read ECONNRESET","service":"api-gateway","timestamp":"2025-09-09T17:31:09.999Z"}
+{"level":"error","message":"Proxy error:read ECONNRESET","service":"api-gateway","timestamp":"2025-09-09T17:39:15.438Z"}
+{"level":"error","message":"Proxy error:read ECONNRESET","service":"api-gateway","timestamp":"2025-09-09T17:39:15.441Z"}
+{"level":"error","message":"Proxy error:read ECONNRESET","service":"api-gateway","timestamp":"2025-09-09T17:39:15.442Z"}

@@ -7,6 +7,8 @@ const mediaRoutes=require('./Routes/media-routes')
 const logger = require('./utils/logger')
 const cors=require('cors')
 const connectDB=require('./DB/connect')
+const { connectRabbitMQ, ConsumeEvent } = require('./utils/rabbitmq')
+const { handlePostDeleted } = require("./EventHandler/Media-event");
 
 const PORT=process.env.PORT || 3003
 
@@ -28,13 +30,13 @@ app.use((req, res, next) => {
 app.use('/api/media',mediaRoutes)
 
 
-
-
-
-
 const start = async () => {
   try {
     await connectDB(process.env.MONGO_URI);
+    await connectRabbitMQ();
+
+    await ConsumeEvent('post.deleted',handlePostDeleted)
+
     logger.info("Connected to MongoDB successfully");  
     app.listen(PORT, () => {
         logger.info(`Server is listening on port ${PORT}`);  

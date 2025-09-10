@@ -11,6 +11,7 @@ const RedisClient=new Redis(process.env.REDIS_URL)
 const rateLimit = require('express-rate-limit')  
 const {RedisStore}=require('rate-limit-redis');
 const router = require('./Routes/PostRoute');
+const { connectRabbitMQ } = require('./utils/rabbitmq');
 const PORT=process.env.PORT || 3002
 
 
@@ -40,10 +41,12 @@ app.get('/', (req, res) => {
 const start = async () => {
   try {
     await connectDB(process.env.MONGO_URI);
+    await connectRabbitMQ()
     logger.info("Connected to MongoDB successfully");  
     app.listen(PORT, () => {
         logger.info(`Server is listening on port ${PORT}`);  
     });
+
   } catch (error) {
     logger.error('Failed to start server:', error); 
   }
